@@ -1,0 +1,27 @@
+_repo: Three-years-in-field-hospitals-of-the-Army-of-the-Potomac_70170
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holstein, Anna
+    gutenberg_agent_id: '55637'
+    url: http://www.gutenberg.org/2009/agents/55637
+description: ''
+gutenberg_issued: '2023-02-28'
+identifiers:
+  gutenberg: '70170'
+language: en
+pgterms:marc904: https://archive.org/details/threeyearsinfiel00hols2/page/n7/mode/2up
+pgterms:marc905: 20210609101100holstein
+pgterms:marc906: '1867'
+pgterms:marc907: us
+production_note: Bob Taylor, Sonya Schermann and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bJ.B. Lippincott & Co, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Three years in field hospitals of the Army of the Potomac
+url: http://www.gutenberg.org/ebooks/70170
